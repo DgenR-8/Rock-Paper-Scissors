@@ -2,7 +2,7 @@
 Rock paper scissors program using Java class and methods.
 
 This program is the conversion of a python-based rock paper scissors program
-to Java using using current knowledge of Java that encompasses this application.
+to Java using using current knowledge of Java features that encompasses this application.
 
 Features such as ternary operators, switch / case statements,
 utilizing the import of Scanner and Random class packages, if statements, while loops
