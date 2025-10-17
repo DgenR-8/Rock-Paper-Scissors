@@ -6,6 +6,7 @@ to Java using using current knowledge of Java features that encompasses this app
 
 Features such as ternary operators, switch / case statements,
 utilizing the import of Scanner and Random class packages, if statements, while loops
-method chaining and so on will be used as reference for future programs and applications.
+method chaining and so on.
 
-This is for me to better understand the efficient use of code.
+This small project will be used as reference for future programs and applications
+to better understand the efficient use of code.
