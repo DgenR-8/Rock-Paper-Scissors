@@ -5,7 +5,7 @@ This program is the conversion of a python-based rock paper scissors program
 to Java using using current knowledge of Java features that encompasses this application.
 
 Features such as ternary operators, switch / case statements,
-utilizing the import of Scanner and Random class packages, if statements, while loops
+utilizing the import of scanner and random class packages, if statements, while loops
 method chaining and so on.
 
 This small project will be used as reference for future programs and applications
